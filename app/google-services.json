@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969127808466",
+    "firebase_url": "https://firekhadalphy.firebaseio.com",
+    "project_id": "firekhadalphy",
+    "storage_bucket": "firekhadalphy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969127808466:android:efdc2374e4ddbf59",
+        "android_client_info": {
+          "package_name": "com.thetechaupair.firekhadalphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969127808466-52o9qpfcc26da5p03t56eogmla85es36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thetechaupair.firekhadalphy",
+            "certificate_hash": "82315CACF070C5171705A156EC54393FB1EC3E54"
+          }
+        },
+        {
+          "client_id": "969127808466-hbq234hs50p1iaqgptf1t3da5knebai6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-4z6XXi7xzrOt-CMo8DfTUlElL7xPio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969127808466-hbq234hs50p1iaqgptf1t3da5knebai6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
